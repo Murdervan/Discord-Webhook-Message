@@ -1,4 +1,4 @@
-REM Rubber Ducky script til at køre PowerShell-scriptet BotBeskedSender.ps1
+REM Rubber Ducky script til at køre PowerShell-scriptet BeskedSender.ps1
 
 REM Vent 5 sekunder
 DELAY 5000
