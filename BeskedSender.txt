@@ -9,7 +9,7 @@ REM Vent 500 millisekunder
 DELAY 500
 
 REM Indtast PowerShell kommandoen med relativ sti til PowerShell-scriptet
-STRING PowerShell.exe -ExecutionPolicy Bypass -File "BotBeskedSender.ps1"
+STRING PowerShell.exe -ExecutionPolicy Bypass -File "BeskedSender.ps1"
 REM Vent 500 millisekunder
 DELAY 500
 
