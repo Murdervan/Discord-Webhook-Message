@@ -6,5 +6,7 @@ Step 2 Open Discord Webhook Message and inset webhook
 write the message                                                                                                                                                                                                                                        
 Step 3 Press "send besked"/"send message"
 
+Step 4 It will say fail but that not the case the message will show up on the channel the webhook af linket up to
+
 Have Fun :-)
 Made by @Murdervan - github.com/murdervan/
