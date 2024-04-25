@@ -1,10 +1,9 @@
-# Discord Webhook Message
-I made this program "Discord Webhook Message" 
-with this program you can send message via your Webhook to discord
->Step 1                                                                                                                                                                                                                                   download Discord Webhook Message
->Step 2                                                                                                                                                                                                                                  start Discord Webhook Message inset webhook write message                                                                                                                                                                                 
->Step 3                                                                                                                                                                                                                                   Press "Send Besked"/"Send Message"                                 
+# Discord WebHook Message 
+I made this program to send message via your webhook to discord 
+Step 1 Download Program
+Step 2 Open Discord Webhook Message and inset webhook 
+write the message 
+Step 3 Press "send besked"/"send message"
 
-have fun :-)
-
-Made By @Murdervan - github.com/murdervan/
+Have Fun :-)
+Made by @Murdervan - github.com/murdervan/
