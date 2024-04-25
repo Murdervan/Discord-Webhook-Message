@@ -1,8 +1,13 @@
-# GuiMenu_2_Telegram_And_Discord
-I made this Gui Menu to send message from your own discord or telegram bot 
-Easy Use dont have to change files, just put your webhook or token in write message and send 
-__the Bot Besked Sender.bat and Bot Besked Sender1.ps1 MUST BE IN SAME FOLDER TO WORK RIGHT__
-Just Run the __Bot Besked Sender.bat__ And then u can send message to your discord or telegram Via your own BOT
-have fun :-D
+# Discord Webhook Message
+I made this program "Discord Webhook Message" 
+with this program you can send message via your Webhook to discord
+>Step 1 
+download Discord Webhook Message
+>Step 2
+start Discord Webhook Message inset webhook write message
+>Step 3
+Press "Send Besked"/"Send Message"
+
+have fun :-)
 
 Made By @Murdervan - github.com/murdervan/
